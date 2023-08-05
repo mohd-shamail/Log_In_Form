@@ -1,0 +1,25 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "'this is react-log-in-form'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "build parcel index.html"
+  },
+  "keywords": [
+    "'login",
+    "logout'"
+  ],
+  "author": "'mshamail'",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
